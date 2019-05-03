@@ -1,0 +1,16 @@
+{
+    "themes": [
+    {
+      "abbr": "cls",
+      "name": "Classic"
+    },
+    {
+      "abbr": "nep",
+      "name": "Neptune"
+    },
+    {
+      "abbr": "gra",
+      "name": "Graphite"
+    }
+  ]
+}

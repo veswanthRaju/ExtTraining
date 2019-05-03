@@ -1,0 +1,44 @@
+.x-unselectable {
+    cursor: pointer;
+ }
+
+ .thumb-nail{
+    overflow: hidden;
+    text-align: center;
+    padding: 5px;
+    height: 145px;
+    width: 125px;
+    margin: 5px;
+    float: left;
+    color: gray;
+    background: #dddddd;
+    border: 4px solid #aaaaaa;
+ }
+
+ .thumb-nail figure {
+    margin: 0;
+ }
+
+ .thumb-nail figcaption {
+    text-align: center;
+    font-size: 7pt;
+    line-height: normal;
+ }
+
+ .thumb-nail img {
+    height: 100px;
+    width: 100px;
+ }
+
+ .thumb-nail.selected {
+   opacity: 1.0;
+   color: black;
+   border: 4px solid black;
+   background-color: white;
+ }
+
+ .thumb-nail.over{
+   border: 4px solid #888888;
+   opacity: .5;
+   color: black;
+ }

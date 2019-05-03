@@ -1,0 +1,20 @@
+{
+  "languages": [
+      {
+        "abbr": "eng",
+        "name": "English"
+      },
+      {
+        "abbr": "tel",
+        "name": "Telugu"
+      },
+      {
+        "abbr": "hin",
+        "name": "Hindi"
+      },
+      {
+        "abbr": "pan",
+        "name": "Panjabi"
+      }
+    ]
+  }

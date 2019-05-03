@@ -1,0 +1,12 @@
+{
+    "views": [
+    {
+        "id": 0,
+        "name":"ListView"
+    },
+    {
+        "id": 1,
+        "name":"ThumbnailView"
+    }
+    ]
+}
